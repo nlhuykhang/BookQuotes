@@ -1,0 +1,49 @@
+﻿<Page
+    x:Class="BookQuotes.RandomPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BookQuotes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <CommandBar.PrimaryCommands>
+                <AppBarButton Label="Random" Icon="Emoji"/>
+            </CommandBar.PrimaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="10,0,0,30" Grid.Row="0">
+            <TextBlock TextWrapping="Wrap" Text="Book Quotes" Style="{StaticResource TitleTextBlockStyle}"/>
+            <TextBlock TextWrapping="NoWrap" TextTrimming="CharacterEllipsis" Text="Random Quotes" Style="{StaticResource HeaderTextBlockStyle}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Margin="10,0,0,0">
+            <StackPanel.Resources>
+                <CollectionViewSource x:Name="BookQuotesCVS"/>
+            </StackPanel.Resources>
+            <ListView x:Name="lvBookQuotes" Height="500" ItemsSource="{Binding Source={StaticResource BookQuotesCVS}}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+                            <TextBlock Grid.Row="0" Text="{Binding Header}" Style="{StaticResource TitleTextBlockStyle}" HorizontalAlignment="Left"/>
+                            <TextBlock Margin="10" Grid.Row="1" Text="{Binding Content}" Style="{StaticResource BodyTextBlockStyle}" HorizontalAlignment="Stretch"/>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+    </Grid>
+</Page>
+

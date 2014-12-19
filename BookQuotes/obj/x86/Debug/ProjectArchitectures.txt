@@ -1,0 +1,2 @@
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\BookQuotes.csproj;x86
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\myBackgroundTask.csproj;x86

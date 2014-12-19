@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="BookQuotes.AddQuotePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BookQuotes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="Book Quotes" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="Add Quote"  Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Button Click="Button_Click" Content="Button" HorizontalAlignment="Left" Margin="129,337,0,-145" VerticalAlignment="Top">
+            </Button>
+            <StackPanel>
+                <TextBlock Text="Current Books Name" Style="{ThemeResource TitleTextBlockStyle}"/>
+                <!--<TextBox x:Name="BookName"/>-->
+                <ComboBox x:Name="CurBookName" PlaceholderText="a" >
+                    <x:String>a</x:String>
+                    <x:String>b</x:String>
+                    <x:String>c</x:String>      
+                </ComboBox>
+                <TextBlock Text="New Book Name" Style="{ThemeResource TitleTextBlockStyle}"/>
+                <TextBox x:Name="NewBookName"/>
+                <TextBlock Text="Quote Content" Style="{ThemeResource TitleTextBlockStyle}"/>
+                <TextBox x:Name="QContent"/>
+                
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

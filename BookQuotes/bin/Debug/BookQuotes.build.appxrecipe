@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HUY-KHANG</Machine>
+    <WindowsUser>Khang</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f3426599-1ae9-4dcc-b74c-ff66ecf0c655</PackageIdentityName>
+    <IntermediateOutputPath>F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Debug\BookQuotes.exe">
+      <PackagePath>BookQuotes.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\bin\Debug\myBackgroundTask.winmd">
+      <PackagePath>myBackgroundTask.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\originalQuotes.xml">
+      <PackagePath>originalQuotes.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\VoiceCommandDefinition1.xml">
+      <PackagePath>VoiceCommandDefinition1.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\worklog.txt">
+      <PackagePath>worklog.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Debug\AddQuotePage.xbf">
+      <PackagePath>AddQuotePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Debug\DetailQuotePage.xbf">
+      <PackagePath>DetailQuotePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Debug\RandomPage.xbf">
+      <PackagePath>RandomPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Debug\BookQuotes.xr.xml">
+      <PackagePath>BookQuotes.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

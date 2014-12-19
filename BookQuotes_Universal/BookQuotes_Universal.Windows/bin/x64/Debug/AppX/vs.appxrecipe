@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KPOWER</Machine>
+    <WindowsUser>Huy Khang</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>5604f174-026a-4332-b29d-42d3a443de30</PackageIdentityName>
+    <IntermediateOutputPath>E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A65EFD428B62BBF5A0C98FF9FD6E3F0E2510976BAAF6CD280CB68C4F1787B0FC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5604f174-026a-4332-b29d-42d3a443de30_1.0.0.0_x64__t6b4qbbtgvd9a</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5604f174-026a-4332-b29d-42d3a443de30_t6b4qbbtgvd9a!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5604f174-026a-4332-b29d-42d3a443de30</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Huy Khang</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-04T16:45:58.831</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\bin\x64\Debug\BookQuotes_Universal.Windows.exe">
+      <PackagePath>BookQuotes_Universal.Windows.exe</PackagePath>
+      <Modified>2014-09-04T16:45:55.103</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T03:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-04T16:45:54.867</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-04T16:45:54.868</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\bin\x64\Debug\BookQuotes_Universal.Windows.xr.xml">
+      <PackagePath>BookQuotes_Universal.Windows.xr.xml</PackagePath>
+      <Modified>2014-09-04T16:45:54.832</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes_Universal\BookQuotes_Universal.Windows\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-04T16:45:58.526</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

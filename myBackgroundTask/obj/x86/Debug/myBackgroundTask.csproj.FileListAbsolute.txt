@@ -1,0 +1,36 @@
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\myBackgroundTask.winmd
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\myBackgroundTask.winmdobj
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\myBackgroundTask.compile.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\bin\x86\Debug\myBackgroundTask.winmd
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\bin\x86\Debug\myBackgroundTask.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\bin\x86\Debug\myBackgroundTask.pri
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\myBackgroundTask.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\priconfig.xml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\layout.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\resources.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\pri.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\qualifiers.txt
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\bin\x86\Debug\myBackgroundTask.winmd
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\bin\x86\Debug\myBackgroundTask.pdb
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\bin\x86\Debug\myBackgroundTask.pri
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\myBackgroundTask.winmd
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\myBackgroundTask.pdb
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\myBackgroundTask.winmdobj
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\myBackgroundTask.compile.pdb
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\priconfig.xml
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\priconfig.xml.intermediate
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\layout.resfiles
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\layout.resfiles.intermediate
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\resources.resfiles
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\resources.resfiles.intermediate
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\pri.resfiles
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\pri.resfiles.intermediate
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\qualifiers.txt
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\qualifiers.txt.intermediate
+F:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt

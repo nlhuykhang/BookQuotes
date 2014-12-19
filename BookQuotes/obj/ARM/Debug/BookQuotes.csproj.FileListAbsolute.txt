@@ -1,0 +1,94 @@
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\App.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\AddQuotePage.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\DetailQuotePage.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\MainPage.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\BookQuotes.xr.xml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\BookQuotes.exe
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\BookQuotes.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\resources.pri
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\BookQuotes.build.appxrecipe
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\myBackgroundTask.winmd
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\myBackgroundTask.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\myBackgroundTask.pri
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\BookQuotes.csprojResolveAssemblyReference.cache
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\App.g.i.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\App.g.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\AddQuotePage.g.i.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\AddQuotePage.g.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\DetailQuotePage.g.i.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\DetailQuotePage.g.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\App.xaml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\AddQuotePage.xaml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\DetailQuotePage.xaml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\MainPage.xaml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\App.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\AddQuotePage.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\DetailQuotePage.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\MainPage.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\BookQuotes.exe
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\BookQuotes.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\priconfig.xml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\layout.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\resources.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\pri.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\qualifiers.txt
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\ProjectArchitectures.txt
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\App.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\AddQuotePage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\DetailQuotePage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\MainPage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\BookQuotes.xr.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\BookQuotes.exe
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\BookQuotes.pdb
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\resources.pri
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\AppxManifest.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\BookQuotes.build.appxrecipe
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\myBackgroundTask.winmd
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\myBackgroundTask.pdb
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\myBackgroundTask.pri
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\BookQuotes.csprojResolveAssemblyReference.cache
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\App.g.i.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\App.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\AddQuotePage.g.i.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\AddQuotePage.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\DetailQuotePage.g.i.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\DetailQuotePage.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\MainPage.g.i.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\MainPage.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\XamlTypeInfo.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\App.xaml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\AddQuotePage.xaml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\DetailQuotePage.xaml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\MainPage.xaml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\App.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\AddQuotePage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\DetailQuotePage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\MainPage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\XamlSaveStateFile.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\BookQuotes.exe
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\BookQuotes.pdb
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\priconfig.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\priconfig.xml.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\layout.resfiles
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\layout.resfiles.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\resources.resfiles
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\resources.resfiles.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\pri.resfiles
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\pri.resfiles.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\qualifiers.txt
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\qualifiers.txt.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\ARM\Debug\ProjectArchitectures.txt
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\BookQuotes.exe.CodeAnalysisLog.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\ARM\Debug\BookQuotes.exe.lastcodeanalysissucceeded

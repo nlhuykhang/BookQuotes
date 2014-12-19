@@ -1,0 +1,141 @@
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\Release\App.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\Release\AddQuotePage.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\Release\MainPage.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.xr.xml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.exe
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\Release\resources.pri
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\Release\AppxManifest.xml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.build.appxrecipe
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\App.g.i.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\App.g.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.g.i.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.g.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.g.i.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.g.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\App.xaml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.xaml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.xaml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\App.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.xbf
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\XamlSaveStateFile.xml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\BookQuotes.exe
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\BookQuotes.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\priconfig.xml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\priconfig.xml.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\layout.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\layout.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\resources.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\resources.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\pri.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\pri.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\qualifiers.txt
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\qualifiers.txt.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\BookQuotes\obj\Release\ProjectArchitectures.txt
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\VoiceCommandDefinition1.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\App.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\AddQuotePage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\DetailQuotePage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\MainPage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\RandomPage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.xr.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.exe
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.pdb
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\resources.pri
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\AppxManifest.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.build.appxrecipe
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\myBackgroundTask.winmd
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\myBackgroundTask.pdb
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\myBackgroundTask.pri
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\BookQuotes.csprojResolveAssemblyReference.cache
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\App.g.i.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\App.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.g.i.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\DetailQuotePage.g.i.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\DetailQuotePage.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.g.i.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\RandomPage.g.i.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\RandomPage.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\XamlTypeInfo.g.cs
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\App.xaml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.xaml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\DetailQuotePage.xaml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.xaml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\RandomPage.xaml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\App.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\DetailQuotePage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\RandomPage.xbf
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\XamlSaveStateFile.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\BookQuotes.exe
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\BookQuotes.pdb
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\priconfig.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\priconfig.xml.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\layout.resfiles
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\layout.resfiles.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\resources.resfiles
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\resources.resfiles.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\pri.resfiles
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\pri.resfiles.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\qualifiers.txt
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\qualifiers.txt.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\MultipleQualifiersPerDimensionFound.txt
+E:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\ProjectArchitectures.txt
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\VoiceCommandDefinition1.xml
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\App.xbf
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\AddQuotePage.xbf
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\DetailQuotePage.xbf
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\MainPage.xbf
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\RandomPage.xbf
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.xr.xml
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.exe
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.pdb
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\resources.pri
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\AppxManifest.xml
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\BookQuotes.build.appxrecipe
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\myBackgroundTask.winmd
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\myBackgroundTask.pdb
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\bin\Release\myBackgroundTask.pri
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\BookQuotes.csprojResolveAssemblyReference.cache
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\App.g.i.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\App.g.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.g.i.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.g.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\DetailQuotePage.g.i.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\DetailQuotePage.g.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.g.i.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.g.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\RandomPage.g.i.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\RandomPage.g.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\XamlTypeInfo.g.cs
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\App.xaml
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.xaml
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\DetailQuotePage.xaml
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.xaml
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\RandomPage.xaml
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\App.xbf
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\AddQuotePage.xbf
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\DetailQuotePage.xbf
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\MainPage.xbf
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\RandomPage.xbf
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\XamlSaveStateFile.xml
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\BookQuotes.exe
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\BookQuotes.pdb
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\priconfig.xml
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\priconfig.xml.intermediate
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\layout.resfiles
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\layout.resfiles.intermediate
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\resources.resfiles
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\resources.resfiles.intermediate
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\pri.resfiles
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\pri.resfiles.intermediate
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\qualifiers.txt
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\qualifiers.txt.intermediate
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\MultipleQualifiersPerDimensionFound.txt
+F:\Study\Windows phone\New\Projects\BookQuotes\BookQuotes\obj\Release\ProjectArchitectures.txt

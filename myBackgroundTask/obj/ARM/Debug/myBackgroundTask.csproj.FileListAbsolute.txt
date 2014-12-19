@@ -1,0 +1,36 @@
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\bin\ARM\Debug\myBackgroundTask.winmd
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\bin\ARM\Debug\myBackgroundTask.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\bin\ARM\Debug\myBackgroundTask.pri
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\myBackgroundTask.winmd
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\myBackgroundTask.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\myBackgroundTask.winmdobj
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\myBackgroundTask.compile.pdb
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\priconfig.xml
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\layout.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\resources.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\pri.resfiles
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\qualifiers.txt
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Huy Khang\Desktop\Windows Phone\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\bin\ARM\Debug\myBackgroundTask.winmd
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\bin\ARM\Debug\myBackgroundTask.pdb
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\bin\ARM\Debug\myBackgroundTask.pri
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\myBackgroundTask.winmd
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\myBackgroundTask.pdb
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\myBackgroundTask.winmdobj
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\myBackgroundTask.compile.pdb
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\priconfig.xml
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\priconfig.xml.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\layout.resfiles
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\layout.resfiles.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\resources.resfiles
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\resources.resfiles.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\pri.resfiles
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\pri.resfiles.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\qualifiers.txt
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\qualifiers.txt.intermediate
+E:\Study\Windows phone\New\Projects\BookQuotes\myBackgroundTask\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

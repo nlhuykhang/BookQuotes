@@ -1,0 +1,63 @@
+﻿15/8
+	read, write json file to store collection of book quotes :3
+	what's next?: add, delete, edit quote
+
+18/8
+	there are still many many things for me to study :))
+	and this really makes me feel exciting :3
+	add button add, delete, edit
+	add template page
+	what's next?: mastering NavigationHelper and ... :v
+
+19/8
+	hmm?
+	have not masterd NavigationHelper yet >< 
+	actualy let's say: there is nothing about NavigationHelper in my mind 
+	what's it about? how does it work? and especially how to use it? 
+	i still have not known anything >< 
+	what is a shame! after a long day working day but nothing really new what is the fuck
+	...
+	although I do not understand, I still have ability to use it and make it work
+	navigate between page 
+	know how to page parameters, object
+	adding a new item of book quote is done, just need some more lines of code to save 
+	what's next?: adding quote in advance to be done, save
+			lockscreen or synchonize?
+
+20/8
+	add and save new quote ok
+	parse xml ok
+	what is next?: translate text to xml in the right format ><
+	and how can I do it in the future functionally?
+	it is time to think about synchonize
+	and lockscreen
+
+24/8
+	đệt 4 ngày rồi mới trở lại code ><
+	chẳng được thếm bao nhiêu hết cả buổi tối ><
+	năng suất kém quá không ổn tí nào
+	
+	lock screen for xamml: not released
+	change to push notification
+	use background task to trigger notification
+
+26/8
+
+27/8
+	ok hôm nay thì bố nhòm lại và cười kha khả được rồi nhóe :3
+
+28/8
+	what to do???
+	convert string to xml done
+	step by step
+	but so slow >"<
+	focus please
+
+18/9/2014
+	background task done, need test for bug will need some days
+	delete, multiple selection, home button, random: done
+	next: edit, move up to universal
+
+20/9
+	let try voice command :3
+	

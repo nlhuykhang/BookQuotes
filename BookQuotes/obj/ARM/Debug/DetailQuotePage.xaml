@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="BookQuotes.DetailQuotePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BookQuotes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="10,0,0,30">
+            <TextBlock TextWrapping="Wrap" Text="Book Quotes" Style="{ThemeResource TitleTextBlockStyle}"/>
+            <TextBlock TextWrapping="NoWrap" TextTrimming="CharacterEllipsis" Text="Quote Detail" Style="{StaticResource HeaderTextBlockStyle}"/>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <StackPanel>
+                <TextBlock x:Name="quoteHeader" Text="quoteHeader" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                <TextBlock x:Name="quoteContent" Text="quoteHeader" Style="{StaticResource MessageDialogContentStyle}"></TextBlock>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>
+
